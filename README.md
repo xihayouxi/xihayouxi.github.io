@@ -15,7 +15,7 @@
 <body>
   <h1>游戏介绍</h1>
 
-  <div class="https://yjsclx62t.github.io">
+  <div xihagame.eu.org="game">
     <h2>游戏名称1</h2>
     <p>游戏介绍1</p>
   </div>
