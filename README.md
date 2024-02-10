@@ -220,6 +220,3 @@ body {
 <div class="footer">
   <h2>如有游戏问题请联系QQ客服咨询</h2>
 </div>
-
-</body>
-</html>
