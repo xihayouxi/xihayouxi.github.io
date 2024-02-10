@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>图图游戏商城</title>
